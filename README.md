@@ -25,3 +25,23 @@ Suporte a plataforma multiplataforma: Ao contrário das versões anteriores do A
 Desempenho aprimorado: O ASP.NET Core MVC é otimizado para desempenho, oferecendo recursos como compilação just-in-time (JIT) aprimorada, hospedagem fora de processo e suporte a carregamento lateral, permitindo que os aplicativos sejam escalonados e executados de forma eficiente.
 
 Essa é apenas uma visão geral do ASP.NET Core MVC, e o framework oferece muito mais recursos e funcionalidades para o desenvolvimento web. Ele é amplamente utilizado para criar uma variedade de aplicativos, desde sites simples até aplicativos empresariais complexos.
+
+# Web Dervices vs Template Engine
+
+Web Services e Template Engines são conceitos diferentes, mas relacionados ao desenvolvimento web. Vou explicar brevemente a diferença entre eles:
+
+Web Services:
+Web Services são serviços que permitem a comunicação e interoperabilidade entre diferentes sistemas e aplicativos através da internet. Eles permitem que os aplicativos se comuniquem e troquem dados, independentemente das linguagens de programação ou plataformas utilizadas.
+
+Os Web Services são baseados em padrões como SOAP (Simple Object Access Protocol) e REST (Representational State Transfer). Esses padrões definem como os serviços são expostos e como as solicitações e respostas são formatadas. Os Web Services podem fornecer funcionalidades como consulta de dados, manipulação de dados, integração de sistemas, autenticação, etc.
+
+Os Web Services podem ser implementados em diferentes tecnologias, como ASP.NET, Java, PHP, etc. Eles geralmente são acessados por meio de protocolos de comunicação, como HTTP, e podem ser consumidos por aplicativos cliente, como aplicativos web, aplicativos móveis, sistemas de terceiros, etc.
+
+Template Engine:
+Template Engines, também conhecidos como mecanismos de modelo, são ferramentas que permitem a geração dinâmica de conteúdo HTML ou outros formatos de documentos. Eles são usados para separar a lógica de apresentação do código de negócios em aplicativos web.
+
+Os Template Engines permitem que os desenvolvedores definam modelos ou templates que contenham a estrutura do documento final e marcas para inserção de dados dinâmicos. O mecanismo de template processa esses modelos, substitui as marcas pelos dados apropriados e gera o conteúdo HTML final que será enviado ao cliente.
+
+Os Template Engines geralmente são usados em frameworks de desenvolvimento web, como o ASP.NET MVC, para renderizar as views. Eles ajudam na criação de páginas dinâmicas, onde é possível exibir dados do banco de dados, formatar conteúdo, gerar listas, etc. Alguns exemplos populares de Template Engines são o Razor (usado no ASP.NET Core MVC), o Django Template Engine (usado no framework Django) e o Twig (usado no framework Symfony).
+
+Em resumo, Web Services são serviços que permitem a comunicação entre sistemas, enquanto Template Engines são ferramentas para a geração dinâmica de conteúdo HTML em aplicativos web. Ambos desempenham papéis importantes no desenvolvimento web, mas em áreas diferentes.
