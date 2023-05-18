@@ -34,3 +34,8 @@ C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NE
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
