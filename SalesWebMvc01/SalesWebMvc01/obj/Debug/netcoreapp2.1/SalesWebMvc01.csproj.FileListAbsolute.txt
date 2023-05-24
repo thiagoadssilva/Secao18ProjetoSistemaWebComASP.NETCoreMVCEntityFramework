@@ -1,5 +1,0 @@
-C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc01\SalesWebMvc01\obj\Debug\netcoreapp2.1\SalesWebMvc01.csproj.AssemblyReference.cache
-C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc01\SalesWebMvc01\obj\Debug\netcoreapp2.1\SalesWebMvc01.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc01\SalesWebMvc01\obj\Debug\netcoreapp2.1\SalesWebMvc01.AssemblyInfoInputs.cache
-C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc01\SalesWebMvc01\obj\Debug\netcoreapp2.1\SalesWebMvc01.AssemblyInfo.cs
-C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc01\SalesWebMvc01\obj\Debug\netcoreapp2.1\SalesWebMvc01.csproj.CoreCompileInputs.cache
