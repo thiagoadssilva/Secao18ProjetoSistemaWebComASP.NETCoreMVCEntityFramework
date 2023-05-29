@@ -40,3 +40,4 @@ C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NE
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
