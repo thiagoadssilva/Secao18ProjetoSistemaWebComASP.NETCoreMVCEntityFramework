@@ -42,3 +42,5 @@ C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NE
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao18ProjetoSistemaWebComASP.NETCoreMVCEntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
